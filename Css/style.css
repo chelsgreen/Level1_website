@@ -1,6 +1,7 @@
+/*----Back Ground Colour----*/
 body
 {
- background-color:#EBF0F2;
+ background-color:#F2F2F2;
 }
 /*----Layout----*/
 .wrapper
@@ -11,7 +12,6 @@ body
     grid-template-areas: 
     "l b b"
     "n n n"
-    "m m v"
     "m m rs"
     "f f f";
     grid-gap: 5px;
@@ -23,23 +23,46 @@ body
     background-image:url(../images/guitar_white.png) ;
     height:142px;
 }
-/*----banner*/
+/*----banner----*/
 .banner
 {
     grid-area: b;
-    background-color:#403C3B;
+    background-color:#262626;
     text-align: center;
     font-size:105px ;
     font-family: 'PT Sans', sans-serif;
     color: #fff;
     
 }
+/*----Navagation----*/
 .nav
 {
     grid-area: n;
-    background-color:#D9D6D2;
+    background-color:#404040;
     color:#000;
     font-size: 15px;
-    font-family: 'Montserrat', sans-serif;
 }
-
+/*----Main Box----*/
+.main
+{
+    grid-area: m;
+    background-color:#8C8C8B;
+    font-size: 12px;
+    
+}
+/*----Right Side Box----*/
+.right-side
+{
+    grid-area: rs;
+    
+    background-color:#BFBFBF;
+}
+/*----Footer----*/
+.footer
+{
+    grid-area: f;
+    color: #BFBFBF;
+    background-color:#262626;    
+    text-align: right;
+    font-size: 13px;
+}
