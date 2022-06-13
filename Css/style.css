@@ -1,3 +1,7 @@
+/*font-family: 'Gentium Plus', serif;
+font-family: 'Joan', serif;
+font-family: 'Nuosu SIL', serif;
+font-family: 'PT Sans', sans-serif;*/
 /*----Back Ground Colour----*/
 body
 {
@@ -30,8 +34,9 @@ body
     background-color:#262626;
     text-align: center;
     font-size:105px ;
-    font-family: 'PT Sans', sans-serif;
-    color: #fff;
+    font-family: 'Joan', serif;
+    
+    
     
 }
 /*----Navagation----*/
@@ -48,7 +53,7 @@ body
     grid-area: m;
     background-color:#8C8C8B;
     font-size: 12px;
-    
+    color: #fff;
 }
 /*----Right Side Box----*/
 .right-side
