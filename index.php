@@ -1,47 +1,48 @@
+<!-- Includes the top part of the program wiht is standard -->
 <?php include("top_bit.html"); ?>
-    
+    <!-- Main box -->
     <div class="main box">
          
         <div class="center-content">
-            <h1><u>Welcome to a guitar learning site</u></h1>
-           
-        </div>   
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-        
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius quam ut risus blandit, vitae condimentum odio pellentesque. Nunc a vulputate nulla. Phasellus vitae lectus et erat congue maximus quis quis ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ac sodales sem, in volutpat mauris. Duis neque velit, sodales porta pellentesque non, aliquet vitae dolor. Quisque finibus, velit nec laoreet viverra, turpis odio vulputate mauris, et commodo orci odio eget nisl. In sem lacus, mollis eu cursus eget, vulputate eu ipsum. Nunc sit amet arcu quis erat imperdiet fringilla. Phasellus nec consequat arcu.
-
-Nullam condimentum tellus sit amet nulla laoreet, ut pellentesque dui consectetur. Sed eu malesuada nisl, vitae tincidunt mi. In hendrerit dui id risus ullamcorper, nec tristique risus scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras sit amet malesuada elit. Duis vestibulum, enim vitae fermentum tempor, tellus tellus hendrerit purus, quis hendrerit justo elit sit amet neque. Suspendisse potenti.
-
-Nam venenatis lorem tortor, in lacinia est maximus ut. Curabitur pretium felis nec augue dapibus hendrerit. Fusce nec elit et massa dignissim dignissim. Donec malesuada vulputate nisl a mattis. Mauris accumsan sollicitudin nunc non porttitor. Duis lobortis elit a ex rutrum, ac ornare purus pellentesque. Curabitur vitae tellus sollicitudin odio accumsan malesuada id sit amet nunc. Nam volutpat ex eu nisl consequat, sit amet pretium elit varius. Integer vel ultrices eros.
-
-Phasellus scelerisque sodales laoreet. In hac habitasse platea dictumst. Proin suscipit, ligula ac rutrum commodo, tortor metus varius diam, eget rhoncus ex eros at odio. Suspendisse finibus mollis diam sed dictum. Sed eget vehicula sapien. Aenean pharetra consequat malesuada. Aliquam erat volutpat. Ut ac arcu luctus, egestas nibh imperdiet, tincidunt urna. Phasellus dapibus tellus ut tortor lacinia, in dignissim elit porta. Nullam metus justo, gravida nec lorem in, imperdiet elementum metus. Suspendisse porttitor venenatis massa, malesuada blandit nisl rutrum sed.
-
-Proin et est eu nulla fringilla sagittis a sed justo. Donec neque sem, venenatis a consectetur non, euismod in tortor. Aenean lacus est, posuere sed odio vitae, bibendum laoreet tellus. Curabitur eget est non odio ultricies rhoncus id sed mauris. Etiam faucibus lacus facilisis massa vulputate, nec cursus erat malesuada. Aenean gravida vehicula nibh at dignissim. Pellentesque maximus posuere turpis. Fusce quis mauris a arcu efficitur ultricies. Nullam sit amet felis bibendum, elementum velit a, dapibus nisi. Mauris ligula ipsum, porttitor vel bibendum nec, auctor vitae quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel mauris a diam feugiat blandit ut sed ex.
-
-Phasellus a lacus vitae odio scelerisque auctor. Nullam semper lacus massa, tempor molestie augue sollicitudin quis. Suspendisse sodales finibus nisi sed varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean et metus hendrerit sem finibus scelerisque id tempus arcu. Nam nisi magna, convallis semper erat non, luctus imperdiet dui. Donec et justo a quam elementum tempus. Sed non mattis elit. Nunc accumsan, diam vitae commodo cursus, tellus nunc viverra eros, ut finibus dolor lorem eget purus. Donec accumsan consequat lectus, ac vehicula tortor aliquet id. Phasellus mollis elit vel gravida pretium. Phasellus tellus diam, cursus ac metus vitae, rutrum placerat eros. Nam vel maximus nibh, ac facilisis erat. Etiam sodales eros et nisl rhoncus, id placerat odio fringilla. In hac habitasse platea dictumst.
-
-Cras luctus blandit lectus, vel tempor magna mattis eu. Sed eu ante a odio fermentum malesuada id non lacus. Sed scelerisque leo ac enim commodo porta a at dolor. Phasellus id ultricies erat. Donec sagittis aliquet ligula, quis mattis ante consectetur vel. Etiam sed orci ipsum. Aliquam maximus congue orci eget feugiat. Sed eget ultrices magna.
-
-Morbi eget magna tellus. Donec elementum eu ligula non condimentum. Nam odio nisl, porta quis odio sit amet, venenatis finibus nisi. Pellentesque ultrices maximus lacus in iaculis. Donec metus turpis, lacinia eu euismod quis, facilisis id lectus. Pellentesque semper eros ac aliquet finibus. Suspendisse potenti. Nam odio felis, aliquet eget facilisis sed, molestie sit amet velit. Phasellus sagittis lorem risus, in sollicitudin lacus euismod et. Praesent eros ex, condimentum eu justo eget, posuere consequat quam. Nam purus eros, gravida id turpis id, scelerisque euismod sem.
-
-Aenean eget rutrum sem. Pellentesque ac leo leo. Vivamus a odio gravida, facilisis libero eget, fermentum erat. Cras id accumsan urna. Sed tempor luctus rutrum. Aliquam finibus venenatis ex, et scelerisque eros venenatis sed. Aenean rutrum, magna eget tincidunt convallis, sem lacus sagittis libero, eget iaculis erat augue ut libero. Nulla felis ipsum, laoreet ac volutpat ac, congue lobortis enim. Phasellus quis nisl arcu. Fusce congue fringilla purus, sed facilisis neque pretium at. Donec leo sapien, dictum varius lacus vitae, convallis ultrices massa. Cras et nisl tempor, ullamcorper sem sagittis, bibendum est. Aliquam accumsan velit in arcu cursus, sit amet vehicula augue commodo. Aenean scelerisque ante tortor, et faucibus lacus rutrum id. Quisque sodales ornare dignissim.
-
-Curabitur et lobortis nisi, et scelerisque neque. Praesent porttitor dolor in consequat auctor. Curabitur finibus semper fringilla. Nam lacinia facilisis dui, eu mattis arcu feugiat a. Sed in rhoncus purus. In malesuada at mauris ut pellentesque. Ut molestie diam ante, at interdum ex interdum nec. Nulla tincidunt feugiat velit, id iaculis magna finibus ut. Quisque porta dolor suscipit porta auctor. Donec auctor dictum nisl, in auctor tellus ornare eu. Ut malesuada elementum egestas. Duis aliquet aliquam pellentesque. Ut quis turpis vitae orci mattis tempus congue sit amet orci.
-</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius quam ut risus blandit, vitae condimentum odio pellentesque. Nunc a vulputate nulla. Phasellus vitae lectus et erat congue maximus quis quis ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ac sodales sem, in volutpat mauris. Duis neque velit, sodales porta pellentesque non, aliquet vitae dolor. Quisque finibus, velit nec laoreet viverra, turpis odio vulputate mauris, et commodo orci odio eget nisl. In sem lacus, mollis eu cursus eget, vulputate eu ipsum. Nunc sit amet arcu quis erat imperdiet fringilla. Phasellus nec consequat arcu.</p>
-
-</div>
+            <h1>Welcome to a Chelsea_Music</h1>
+            </div> 
+        <p>This website is made to educate you on the very basics of the guitar.
+        </p>
+        <p>
+            A guitar is a fretted musical instrument that typipcally has 6 strings.You can play the instrument by either strumming or picking the strings. You use you left hand on the notes and your right hand 
+            for strumming or picking. The sound of a guitar can be either projected from it acoustically or amplifed(electronic pickup). The standard tuning for a guitar is E, A, D, G, B, E. You may notice
+            that the strings on the top are different to the bottom strings. Starting from the thinnest string, the strings are called string 1, string 2, and so on up until string 6(the topmost string). String 1 and 2 are called
+            "plain strings" and are bare steel strings. Strings 3 through 6 are wound with metal. As strings become shorter their pitch increases. Guitars are designed to incorporate this method so that
+            the pitch they produce increases a semitone each time the position of the string is held at change. The metallic parts that are on the neck are called frets. A player uses their left hand to hold 
+            the strings down in the space between the frets. There is a total of 20 frets for 20 semitones. Guitar was 
+        </p>   
+        <p> Guitar is quite hard when you don't know what you need or what you are doing. It will take some time before you become a pro, which won't happen over night. As a beginner you probally would not know what tabs were or even how to hold a guitar. Lots of videos online 
+          don't have a good enought views of how you hold a pick or they don't explain it quite right.
+        </p>
+        <p>Before you buy a guitar online go inside a guitar store and have a hold and feel of the guitars. This is quite important because you may end up getting a guitar you are not happy with.
+          As a beginner you would probally want a guitar with softer strings(nylon). This is because nylon is softer on your fingers than steel and other forms of strings. This all depeneds on how thick 
+          your fingers are, so you might be alright with a steel strung guitar. Another thing to note when buying a guitar is that they come in different sizes eg. 1/4, 1/2, 3/3 and full size.
+          <li> 1/4 is made for about 2-5 year olds</li><li>1/2 is made for 5-8 year olds.</li> <li>3/4 size is made for 8-12 year olds.</li><li> Full size is made for 12+</li>
+        </p>
+        <p>Their are a few different types of guitars. Here is a list of a few.
+          <li>Steel-string acousitc guitar</li>
+          <li>Classical guitar</li>
+          <li>Acoustic electirc (amp optional)</li>
+          <li>Electirc (requires a amp)</li>
+          <li>Bass Guitar (amp)</li>
+          <li>12 strung guitar</li>
+        </p>
           
+        <br><br><br><br>
+        
+</div>
+          <!--Right-Side Box  -->
         <div class="right-side box">
         <div class="center-content">
-        <iframe width="575" height="315" src="https://www.youtube.com/embed/m80E1K75vDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        
+                 <iframe width="575" height="315" src="https://www.youtube.com/embed/3CZ6GLQ67B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                </div>
-               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-       
-                <p>
+               <h2>Welcome to Chelsea_Music</h2>
+              
             </div>
 <?php include("bottom_bit.html")?>       
  

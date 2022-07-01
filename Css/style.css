@@ -2,10 +2,16 @@
 font-family: 'Joan', serif;
 font-family: 'Nuosu SIL', serif;
 font-family: 'PT Sans', sans-serif;*/
+
 /*----Back Ground Colour----*/
 body
 {
  background-color:#F2F2F2;
+}
+.box
+{
+    border: #000 solid 1px;
+    padding: 10px;
 }
 /*----Layout----*/
 .wrapper
@@ -36,14 +42,13 @@ body
     font-size:105px ;
     font-family: 'Joan', serif;
     color: #fff;
-    
-    
+        
 }
 /*----Navagation----*/
 .nav
 {
     grid-area: n;
-    background-color:#404040;
+    background-color:#646464;
     color:#000;
     font-size: 15px;
 }
@@ -52,8 +57,8 @@ body
 {
     grid-area: m;
     background-color:#8C8C8B;
-    font-size: 12px;
-    
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
 }
 /*----Right Side Box----*/
 .right-side
@@ -74,13 +79,22 @@ body
 /*---Navagation Text Formating---*/
 .nav a:link, a:visited
 {
-    color:#BFBFBF;
+    color:#000;
     text-decoration: none;
 
 }
 .nav a:hover
 {
-    color:#7EADBF
+    color:#F2F2F2
+}
+/*---Rigth-side Text Formating---*/
+.right-side a:link a:visited
+{
+color:#000;
+}
+.right-side a:hover
+{
+    color:#000; 
 }
 /*center content in a div*/
 .center-content
@@ -113,3 +127,27 @@ input[type=text],input[type=email] , select, textarea {
   input[type=submit]:hover {
     background-color: #16acf2;
   }
+  /*----Blue Guitar----*/
+.blueg
+{
+    /* MIGHT CHANGE YET */
+    grid-area: l;
+    background-image:url(../images/blue_guitar.jpg) ;
+    height:142px;
+}
+.circle
+{
+    border-radius: 50%;
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 104px 2px 203px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 104px 2px 203px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 104px 2px 203px 0px rgba(0,0,0,0.75);
+}
+.pic{
+    grid-area: rs;
+    background-image:url(../images/white_guitar.png) ;
+    height:142px;
+}
+  

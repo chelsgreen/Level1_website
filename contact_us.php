@@ -1,28 +1,16 @@
 <?php include("top_bit.html"); ?>
 <div class="main box">
-    <u><h1>Contact Us</h1></u>
-    <div class="container">
-  <form action="action_page.php">
-
-    <label for="fname"><h2>Full Name</h2></label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-    <label for="lname"><h2>Email Adress</h2></label>
-    <input type="text" id="email" name="email" placeholder="Enter you email..">
-
-    
-
-    <label for="subject"><h2>Subject</h2></label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-
-  </form>   
-</div>
+  
+    <iframe src="https://urldefense.proofpoint.com/v2/url?u=https-3A__docs.google.com_forms_d_e_1FAIpQLSe-5FypPi8nNkw-2DaSjD2CtPA1kh5wAYmyYNBQOMJfANDZknV3lQ_viewform-3Fembedded-3Dtrue&d=DwIFaQ&c=_Zm2Kb9yJrso4r0-N78Ezl-a6DfgMbIISn5tZXXqWk4&r=p3ppnHFd2cmhXK1fPk7pCwwmIevwrc0xPajCHA58U3A&m=2UlnsIgU5LS2-qoThVzjvgWICvhD4apo5qjsVR6HR0Lhi4hw084V3km4NhollLNK&s=P7p38Yq2FH84tbY1p-Xu1_ET3BZyyPiWpige42T82uY&e= " width="1500" height="680" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 <div class="right-side">
-<h1>Photo???</h1>
 
+<br><br><br><br><br>
+<img class="circle" src="images/white_g.png" src=libary />
+<div class="center-content">
+
+
+</div>
 </div>
 
 
