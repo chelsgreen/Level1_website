@@ -40,8 +40,15 @@
         <div class="right-side box">
         <div class="center-content">
                  <iframe width="575" height="315" src="https://www.youtube.com/embed/3CZ6GLQ67B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-               </div>
-               <h2>Welcome to Chelsea_Music</h2>
+                  <h6>Video by Chelsea Green<h6>
+                </div>
+                <h2>Message from the creator</h2>
+               <p>Hi and welcome to Chelsea_Music created by Chelsea Green. I have been play thte guitar for 7 years now and when I first started learning the guitar I didn't know what equpitment I need or
+                what websites are relyable to use. As a beginner you would not know how to use a capo or what it does. So thats why I made this website. 
+                 This website is made to educate you on the basic of learning the guitar. I have put together some equitment you may want and I 
+                explain what it does so you understand weather or not you need to purchase that product. There are also some helpful videos on this website that explain the myths and why not to learn off
+                youtube videos.<p>
+              <p>Have fun learning :)</p>
               
             </div>
 <?php include("bottom_bit.html")?>       

@@ -3,14 +3,14 @@
 <div class="main box">
     <div class="center-content">
         <!-- Video tags -->
-        <h1><u>Video 1</u></h1>
-        <iframe width="652" height="315" src="https://www.youtube.com/embed/3CZ6GLQ67B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+        <h1><u>5 Mistakes Beginners Make When Learning Guitar Onilne</u></h1>
+        <iframe width="655" height="315" src="https://www.youtube.com/embed/A1sK4XwVdaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <!-- Title of Video -->
             
         </div>
             <div class="center-content"> 
-            <h1><u>Video 2</u></h1>  
-        <iframe width="655" height="315" src="https://www.youtube.com/embed/m80E1K75vDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <h1><u>The Biggest Myths About Learning Guitar</u></h1>  
+            <iframe width="655" height="315" src="https://www.youtube.com/embed/7KbPEzzZh4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
         </div>  
 </div>
